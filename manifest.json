@@ -1,0 +1,10 @@
+[
+  {
+    "display_name": "Internet Archive",
+    "value": "archive",
+    "version": "1.0",
+    "icon": "https://archive.org",
+    "type": "global",
+    "disabled": false
+  }
+]
